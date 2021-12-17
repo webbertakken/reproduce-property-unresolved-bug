@@ -1,0 +1,11 @@
+{
+  "name": "reproduce-property-unresolved-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:webbertakken/reproduce-property-unresolved-bug.git",
+  "author": "Webber <webber@takken.io>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
